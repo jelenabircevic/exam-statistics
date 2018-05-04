@@ -160,15 +160,15 @@
 }
 
 .bottom-list {
-    width: 1000px;
-    margin: 150px 300px;
+    width: 80%;
+    margin: 150px 10%;
     font-size: 14px;
     
 }
 
 .passed-list {
     float: left;
-    width: 300px;
+    width: 40%;
     margin-right: 50px;
 }
 
@@ -178,7 +178,8 @@ h2 {
 
 .failed-list {
     float: right;
-    width: 300px;
+    width: 40%;
+    margin-right: 50px;
 }
 
 .error {
